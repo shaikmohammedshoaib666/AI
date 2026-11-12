@@ -1,5 +1,7 @@
 # AgriSmart AI – AI-Powered Smart Agriculture Platform (భారతీయ రైతుల కోసం స్మార్ట్ వ్యవసాయం)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=shaikmohammedshoaib666/AI&branch=main&mainModule=streamlit_app.py)
+
 An AI-powered agriculture assistance platform primarily designed for Indian farmers. AgriSmart AI helps farmers identify crops, detect plant diseases from leaf photographs using deep computer vision, perform visual and laboratory soil nutrient diagnostics (ICAR benchmarks), receive CIBRC-registered pesticide/fertilizer recommendations, check live agro-weather spray windows, and converse with a bilingual (English & Telugu) AI agricultural assistant.
 
 ---
